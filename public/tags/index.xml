@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GiGiGatGat</title>
+    <link>https://avocadoTiff.github.io/blog/tags/</link>
+    <description>Recent content in Tags on GiGiGatGat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Your name here</copyright>
+    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://avocadoTiff.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://avocadoTiff.github.io/blog/tags/blog/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://avocadoTiff.github.io/blog/tags/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://avocadoTiff.github.io/blog/tags/hugo/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://avocadoTiff.github.io/blog/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://avocadoTiff.github.io/blog/tags/tutorial/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://avocadoTiff.github.io/blog/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ASP.NET</title>
+      <link>https://avocadoTiff.github.io/blog/tags/asp.net/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://avocadoTiff.github.io/blog/tags/asp.net/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://avocadoTiff.github.io/blog/tags/code/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://avocadoTiff.github.io/blog/tags/code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VisualStudio</title>
+      <link>https://avocadoTiff.github.io/blog/tags/visualstudio/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://avocadoTiff.github.io/blog/tags/visualstudio/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
